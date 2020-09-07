@@ -9,18 +9,6 @@ body {
 
 }
 
-
-.link{
-	text-decoration: none;
-	font-size: 1em;
-	color: green;
-	border:0.75px;
-}
-.link:hover{
-	color: red;
-	text-decoration: none;
-}
-
 p {
 	padding: 10px;
 	margin: 0;
@@ -114,6 +102,17 @@ p{
   font-weight: bold;
   border: 0 0 10px 10px;
   color: #FFFFFF;
+}
+
+.link{
+	text-decoration: none;
+	font-size: 1em;
+	color: green;
+	border:0.75px;
+}
+.link:hover{
+	color: red;
+	text-decoration: none;
 }
 
 
