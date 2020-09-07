@@ -9,12 +9,6 @@ body {
 
 }
 
-.nav-brand {
-  color: orange;
-  font-size: 1.5em;
-  font-weight: bold;
-}
-
 
 .link{
 	text-decoration: none;
@@ -115,7 +109,9 @@ p{
 }
 
 .navbar-brand {
-  font-size: 2em;
+  color: orange;
+  font-size: 1.5em;
+  font-weight: bold;
   border: 0 0 10px 10px;
   color: #FFFFFF;
 }
